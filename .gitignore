@@ -1,0 +1,7 @@
+# Local and Windows-generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# The downloaded template archive is retained locally but is not needed by the deployed site.
+html5up-massively.zip
